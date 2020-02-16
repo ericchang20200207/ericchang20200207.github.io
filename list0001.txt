@@ -133,4 +133,4 @@ IPTV热播剧场,http://150.138.8.143/00/SNM/CHANNEL00000604/index.m3u8
 IPTV魅力时尚（高清）,http://150.138.8.143/00/SNM/CHANNEL00000609/index.m3u8
 墨宝（高清),http://150.138.8.143/00/SNM/CHANNEL00000610/index.m3u8
 光影,http://150.138.8.143/00/SNM/CHANNEL00000611/index.m3u8
-
+黑帮电影,http://60.255.149.251/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
